@@ -1,6 +1,6 @@
 # Hi, I'm Satyam Gupta! 👋
 
-- 🌱 Passionate about **Backend, Data Analytics** and **Machine Learning** and **Product Management** — I believe in the power of storytelling through data.
+- 🌱 Passionate about **Backend, Data Analytics**, **Machine Learning** and **Product Management** — I believe in the power of storytelling through data.
 - 💻 Currently building: **Cloud and AI projects**
 - 🏢 Current Role: **Software Development Engineer II at MongoDB**
 - 🤝 Giving back: Volunteer at **Mentors Without Borders**, teaching Python programming to college students from low-income backgrounds.
