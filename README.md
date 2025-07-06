@@ -28,11 +28,11 @@ I've also mentored students from underserved communities via **Mentors Without B
 ## 🚀 Featured Projects
 
 - 🔗 [Redis URL Shortener](https://github.com/Satyam-gupta20/url_shortener_using_redis_flask)
-  Flask + Redis app to shorten URLs and track click analytics.  
+  Flask + Redis app to create trackable short links, demonstrating efficient data storage and retrieval for analytics.  
 
 
 - ☁️ [Serverless Weather Pipeline](https://github.com/Satyam-gupta20/aws_serverless_data_weather_fetcher) 
-  AWS Lambda + EventBridge + S3 pipeline to ingest weather data for analytics.  
+  A scalable, serverless AWS pipeline (Lambda, S3, EventBridge) for ingesting real-time weather data, showcasing expertise in event-driven architecture. 
 
 ---
 
