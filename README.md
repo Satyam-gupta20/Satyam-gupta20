@@ -27,11 +27,11 @@ I've also mentored students from underserved communities via **Mentors Without B
 
 ## 🚀 Featured Projects
 
-- 🔗 [Redis URL Shortener](https://github.com/Satyam-gupta20/redis-url-shortener)  
+- 🔗 [Redis URL Shortener](https://github.com/Satyam-gupta20/url_shortener_using_redis_flask)
   Flask + Redis app to shorten URLs and track click analytics.  
 
 
-- ☁️ [Serverless Weather Pipeline](https://github.com/Satyam-gupta20/aws-weather-pipeline)  
+- ☁️ [Serverless Weather Pipeline](https://github.com/Satyam-gupta20/aws_serverless_data_weather_fetcher) 
   AWS Lambda + EventBridge + S3 pipeline to ingest weather data for analytics.  
 
 ---
@@ -40,21 +40,20 @@ I've also mentored students from underserved communities via **Mentors Without B
 
 Need help with interview prep, backend projects, or career clarity?
 
-📅 Book time with me on [Topmate.io/satyam20](https://topmate.io/satyam20)
+📅 Book time with me on [Topmate.io/satyamgupta]([https://topmate.io/satyam20](https://topmate.io/satyamgupta))
 
 ---
 
 ## ✍️ Blogs, Videos & More
 
-- [Dev.to Articles](https://dev.to/satyamgupta20)
-- [Medium Blog](https://medium.com/@satyamgupta20)
-- [LinkedIn](https://linkedin.com/in/satyam20)
+- [Dev.to Articles](https://dev.to/satyam_gupta)
+- [Medium Blog](https://medium.com/@satyamg)
+- [LinkedIn](https://www.linkedin.com/in/satyam20/)
 
 ---
 
 ## 📬 Get in Touch
 - 📧 [satyam20gupta@gmail.com](mailto:satyam20gupta@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/satyam20/)
 
 ⭐ If you found something useful here, feel free to star a repo or connect — always happy to collaborate!
 
