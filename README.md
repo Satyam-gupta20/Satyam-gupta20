@@ -59,6 +59,6 @@ Need help with interview prep, backend projects, or career clarity?
 ⭐ If you found something useful here, feel free to star a repo or connect — always happy to collaborate!
 
 <p align="center">
-  <img src="https://github.com/Satyam-gupta20/Satyam-gupta20/raw/main/assets/banner.png" alt="GitHub Banner" />
+  <img src="https://github.com/Satyam-gupta20/Satyam-gupta20/raw/main/banner.png" alt="GitHub Banner" />
 </p>
 
