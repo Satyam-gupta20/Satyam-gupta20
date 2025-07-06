@@ -40,7 +40,7 @@ I've also mentored students from underserved communities via **Mentors Without B
 
 Need help with interview prep, backend projects, or career clarity?
 
-📅 Book time with me on [Topmate.io/satyamgupta]([https://topmate.io/satyam20](https://topmate.io/satyamgupta))
+📅 Book time with me on [Topmate.io/satyamgupta](https://topmate.io/satyamgupta)
 
 ---
 
@@ -57,7 +57,5 @@ Need help with interview prep, backend projects, or career clarity?
 
 ⭐ If you found something useful here, feel free to star a repo or connect — always happy to collaborate!
 
-<p align="center">
-  <img src="https://github.com/Satyam-gupta20/Satyam-gupta20/raw/main/banner.png" alt="GitHub Banner" />
-</p>
+
 
