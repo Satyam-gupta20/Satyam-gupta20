@@ -21,7 +21,7 @@ I've also mentored students from underserved communities via **Mentors Without B
 - **Languages & Scripting**: Python, SQL, JavaScript (React, Redux), HTML/CSS  
 - **Backend & Automation**: Flask, Django, REST APIs, GraphQL, AWS (Lambda, S3, EventBridge), Git, Kubernetes  
 - **Data & Analytics**: Snowflake, Redshift, PostgreSQL, Trino, MongoDB, Streamlit, Tableau, Looker, Amplitude, GA  
-- **Tools & Communication**: Jira, Confluence, Power BI, Sisense, Techn
+- **Tools & Communication**: Jira, Confluence, Power BI, Sisense, Technical Documentation, Public Speaking, Community Building
 
 ---
 
