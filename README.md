@@ -34,6 +34,9 @@ I've also mentored students from underserved communities via **Mentors Without B
 - ☁️ [Serverless Weather Pipeline](https://github.com/Satyam-gupta20/aws_serverless_data_weather_fetcher) 
   A scalable, serverless AWS pipeline (Lambda, S3, EventBridge) for ingesting real-time weather data, showcasing expertise in event-driven architecture. 
 
+- 📊 [Data Engineering End-to-End](https://github.com/Satyam-gupta20/data-engineering-end-to-end)  
+  End-to-end pipeline turning raw data → star schema → marts → final charts using Python, DuckDB, and the Medallion architecture, highlighting full-stack data engineering skills.
+
 ---
 
 ## 🧠 Book a 1:1 Session with Me
